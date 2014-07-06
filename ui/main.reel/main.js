@@ -7,8 +7,8 @@ var ContextualizableComponent = require("oprime-montage/core/contextualizable-co
 var enLocales = require("oprime-montage/locale/en/messages.json");
 var frLocales = require("oprime-montage/locale/fr/messages.json");
 
-var enExperimentLocalizations = require("assets/stimuli/locale/en/messages.json");
-var frExperimentLocalizations = require("assets/stimuli/locale/fr/messages.json");
+var enExperimentLocalizations = require("https://corpusdev.lingsync.org/testingphophlo-debugging/locale/en/messages.json");
+var frExperimentLocalizations = require("https://corpusdev.lingsync.org/testingphophlo-debugging/locale/fr/messages.json");
 
 /**
  * @class Main

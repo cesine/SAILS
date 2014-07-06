@@ -6,9 +6,9 @@ var Experiment = require("oprime-montage/ui/experiment.reel").Experiment,
     designToForceIncludeInMop = require("https://corpusdev.lingsync.org/testingphophlo-debugging/sails_design");
 // sampleResultToForceIncludeInMop = requi re("assets/stimuli/sails_sample_result.json");
 
-var enLocales = require("assets/stimuli/locale/en/messages.json");
-var frLocales = require("assets/stimuli/locale/fr/messages.json");
-var iuLocales = require("assets/stimuli/locale/iu/messages.json");
+var enLocales = require("https://corpusdev.lingsync.org/testingphophlo-debugging/locale/en/messages.json");
+var frLocales = require("https://corpusdev.lingsync.org/testingphophlo-debugging/locale/fr/messages.json");
+var iuLocales = require("https://corpusdev.lingsync.org/testingphophlo-debugging/locale/iu/messages.json");
 
 
 /**
